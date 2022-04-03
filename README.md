@@ -18,7 +18,7 @@ The projects in this repository are areas of my interest.
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+-- What did you learn while building this project? What challenges did you face and how did you overcome them? --
 
 
 # 🛠 Skills
@@ -47,7 +47,8 @@ What did you learn while building this project? What challenges did you face and
 
 * #### JPA / Hibernate
 * #### DSA practice
-# Important Sources / Links
+
+# Important Resources / Links
 
 ## Design Patterns
 * [Design Patterns](https://github.com/kamranahmedse/design-patterns-for-humans) 
