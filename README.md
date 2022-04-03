@@ -3,17 +3,19 @@
 The projects in this repository are areas of my interest.
 
 
-## Areas to work on -
+## Areas to work on 📚 ⏳
 
 * Core Java concepts
 * Concurrency
 * Java collections
+* Design Patterns
 * Spring Framework - Core
 * Spring MVC/Web
 * Spring Data
 * JPA / Hibernate
 * Spring REST
 * Spring Boot
+* System Design
 
 
 ## Lessons Learned
@@ -41,12 +43,13 @@ The projects in this repository are areas of my interest.
 
 # Items Completed
 
-* #### Core Java concepts
-* #### Spring Core
-# Currently Learning
+* #### Core Java concepts 🥉
+* #### Spring Core 🥇
 
-* #### JPA / Hibernate
-* #### DSA practice
+
+# Currently Learning
+* #### JPA / Hibernate 😪
+* #### DSA practice 🚀
 
 # Important Resources / Links
 
@@ -58,9 +61,9 @@ The projects in this repository are areas of my interest.
 ## System Design
 * [Gaurav Sen Playlist](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
-## Code Refactoring
+## Code Refactoring 💻
 * [Refactoring Guru](https://refactoring.guru/refactoring)
 
-## LMAX Disruptor
+## LMAX Disruptor 📈
 * [Trisha Gee](https://trishagee.github.io/post/dissecting_the_disruptor_whats_so_special_about_a_ring_buffer/)
 * [Official Documentation](https://lmax-exchange.github.io/disruptor/user-guide/index.html)
