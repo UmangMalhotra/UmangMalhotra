@@ -5,6 +5,7 @@ The projects in this repository are areas of my interest.
 
 ## Areas to work on 📚 ⏳
 
+* [Data Structure Algo - Leetcode/GFG](https://github.com/UmangMalhotra/coding-practice/tree/master)
 * Core Java concepts
 * Concurrency
 * Java collections
