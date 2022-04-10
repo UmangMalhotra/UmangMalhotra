@@ -25,20 +25,20 @@ The projects in this repository are areas of my interest.
 
 
 # 🛠 Skills
-### Core Java
+### [1] Core Java
 
-### Spring Framework
+### [2] Spring Framework
 * Spring Core
 * Spring MVC
 
-### JPA - Hibernate
+### [3] JPA - Hibernate
 
-### Python - basic syntax
+### [4] Python - basic syntax
 
-### Machine Learning Algorithms using Pandas
+### [5] Machine Learning Algorithms using Pandas
 * [Machine Learning Algos using Pandas]()
 
-### Javascript - basic
+### [6] Javascript - basic
 
 
 
