@@ -1,6 +1,8 @@
 <h3>CompletableFuture - </h3>
 
 
+
+
 <h4>thenSupplyAsync -</h4> 
 
 A factory method provided by `CompletableFuture` class. It takes a `Supplier` as argument and returns a `CompletableFuture` that will be
@@ -13,11 +15,14 @@ public Future<Double> getPriceAsync(String product) {
 }
 ```
 
+
+
 <h4>thenApply -</h4>
 
 `CompletableFuture<U> thenApply(Function <? super T, ? extends U> func)`
 
 Used for transformation purpose. Returns a new CompletionStage that, when _this_ stage completes normally, is executed with _this_ stage's result as the argument to the supplied function.
+
 
 
 
